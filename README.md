@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently a graduate student at the McCombs School of Business - UT Austin, pursuing my Master's in Information Technology and Management
-- 🌱 I look forward to continuous learnign and constant development
 - 💬 I have ~3years of experience working as a Software Engineer and my interest lie in data analysis, data visualization and arriving at actionable insights that help drive the business towards potential growth
+- 🌱 I look forward to continuous learning and constant development
 - 📫 How to reach me:
 mail: aboorvaerodebaskaran@gmail.com
